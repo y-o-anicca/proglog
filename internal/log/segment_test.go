@@ -7,6 +7,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
+
+	api "github.com/yodog712/proglog/api/v1"
 )
 
 func TestSegment(t *testing.T) {

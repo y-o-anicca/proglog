@@ -6,6 +6,8 @@ import (
 	"path"
 
 	"google.golang.org/protobuf/proto"
+
+	api "github.com/yodog712/proglog/api/v1"
 )
 
 type segment struct {
